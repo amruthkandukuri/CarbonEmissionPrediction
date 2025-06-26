@@ -1,1 +1,2 @@
-Preprocessing and cleaned the data
+Week-1: Preprocessing and cleaned the data
+Week-2: Data Exploration
